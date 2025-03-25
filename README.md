@@ -1,4 +1,15 @@
-## Hi there 👋
+Hey there! 👋
+
+Welcome to my GitHub page! 😄
+
+I'm Vinicius, a Brazilian currently in my 5th semester of a Bachelor's degree in Mathematics.
+
+Recently, I discovered my passion for programming, and now I'm diving deep into it! 🚀
+
+Feel free to explore my repositories, and if anything catches your interest, don’t hesitate to reach out!
+
+📧 viniciusdmeiras@gmail.com
+
 
 <!--
 **31ras/31ras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
